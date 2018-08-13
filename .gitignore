@@ -1,2 +1,4 @@
 #You shall not commit a *.txt file
 *.txt
+#I have added a this comment, because I want see git diff command efect
+
