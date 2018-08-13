@@ -11,6 +11,8 @@ int main(void)
 {
 	std::cout<<"Hello"<<std::endl;
 
+	//komentarz wywolujacy zmiane
+
 	return 0;
 }
 
