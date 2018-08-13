@@ -13,6 +13,7 @@ int main(void)
 
 	//komentarz wywolujacy zmiane
 
+	//komentarz wywolujacy zmiane
 	return 0;
 }
 

@@ -14,4 +14,6 @@ public:
 	virtual ~Class_Test();
 };
 
+//komentarz wywolujacy zmiane
+
 #endif /* CLASS_TEST_H_ */
