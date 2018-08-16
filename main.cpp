@@ -18,6 +18,9 @@ int main(void)
 	//komentarz wywolujacy zmiane
 
 	//komentarz wywolujacy zmiane
+
+	std::cout<<"Bye"<<        std::endl;
+
 	return 0;
 }
 
