@@ -10,6 +10,7 @@
 Class_Test::Class_Test() {
 	// TODO Auto-generated constructor stub
 
+	Powitanie();
 }
 
 Class_Test::~Class_Test() {
