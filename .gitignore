@@ -1,4 +1,5 @@
 #You shall not commit a *.txt file
 *.txt
+*.patch
 #I have added a this comment, because I want see git diff command efect
 #test
